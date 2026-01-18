@@ -47,13 +47,13 @@ Atuo com foco em qualidade dos dados, entendimento de regras de neg√≥cio e gera√
   </a>
 
   <br/>
-
+<p align="left">
   <a href="mailto:Eduarda.Araujo@BIAnalyticsd.onmicrosoft.com">
     <img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 
   <br/>
-
+<p align="left">
   <a href="https://github.com/mariaeduardadearaujoalves90-hue">
     <img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
