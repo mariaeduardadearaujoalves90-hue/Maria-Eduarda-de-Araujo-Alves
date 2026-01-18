@@ -1,1 +1,60 @@
 # Maria-Eduarda
+# 👨‍💻 Eduarda Araujo 
+
+### Analista de BI Júnior | Dados | Power BI | SQL | Excel
+
+Analista de BI Júnior | Dados | Power BI | SQL | Excel
+
+Sou Analista de BI Júnior, com mais de 5 anos de experiência nas áreas financeira e de negócios, atuando diretamente com indicadores, controles, análises e apoio à tomada de decisão. Há 3 anos trabalho com Business Intelligence, desenvolvendo análises, relatórios e dashboards voltados para acompanhamento de performance e resultados.
+
+Possuo experiência em tratamento e análise de dados, modelagem de informações, criação de dashboards interativos no Power BI, elaboração de consultas SQL e automação de relatórios em Excel. Tenho facilidade em traduzir necessidades do negócio em soluções analíticas claras e objetivas.
+
+Atuo com foco em qualidade dos dados, entendimento de regras de negócio e geração de insights estratégicos, sempre buscando aprimorar conhecimentos em ETL, DAX, modelagem dimensional e análise de KPIs, com o objetivo de evoluir continuamente na área de Business Intelligence e Analytics.
+
+
+---
+
+## 🚀 Linguagens e Tecnologias
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+   <img src="https://img.shields.io/badge/VS%20CODE-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+</p>
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
+</p>
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40"/>
+</p>
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/>
+  
+</p>
+
+## 📬 Contato
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/maria-eduarda-134887274/" target="_blank">
+    <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+
+  <br/>
+
+  <a href="mailto:Eduarda.Araujo@BIAnalyticsd.onmicrosoft.com">
+    <img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+
+  <br/>
+
+  <a href="https://github.com/mariaeduardadearaujoalves90-hue">
+    <img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
