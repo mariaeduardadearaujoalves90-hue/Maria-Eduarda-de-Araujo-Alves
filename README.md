@@ -58,3 +58,6 @@ Atuo com foco em qualidade dos dados, entendimento de regras de neg√≥cio e gera√
     <img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
+
+<!-- profile update -->
+
