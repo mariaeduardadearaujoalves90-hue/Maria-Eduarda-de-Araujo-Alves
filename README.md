@@ -17,6 +17,7 @@ Atuo com foco em qualidade dos dados, entendimento de regras de negócio e gera�
 ## 🚀 Linguagens e Tecnologias
 
 <table>
+  <table style="border: none; border-collapse: collapse;">
   <tr>
     <!-- COLUNA ESQUERDA -->
     <td align="center" style="padding-right: 25px;">
