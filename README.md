@@ -1,9 +1,7 @@
 #mariaeduardadearaujoalves90-hue
 # 👨‍💻 Eduarda Araujo 
 
-### Analista de BI Júnior | Dados | Power BI | SQL | Excel
-
-Analista de BI Júnior | Dados | Power BI | SQL | Excel
+### Analista de BI 
 
 Sou Analista de BI Júnior, com 4 anos de experiência nas áreas financeira e de negócios, atuando diretamente com indicadores, controles, análises e apoio à tomada de decisão. Há 3 anos trabalho com Business Intelligence, desenvolvendo análises, relatórios e dashboards voltados para acompanhamento de performance e resultados.
 
